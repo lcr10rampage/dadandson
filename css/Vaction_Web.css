@@ -1,0 +1,44 @@
+.bg{ border-radius: 31px; height: 62px; width: 179px; color: white; background-color: #1C9527; font-size: 26px; border: none; margin-left: 11px;}
+#ji{width: 1467px; color: grey; position: absolute; margin-top: px; z-index: -1; height: 3px; margin-left: -20px}
+#you{font-size: 72px;}
+#hi{ font-size: 42px;}
+#h{ font-size: 72px; margin-top: 40px;}
+#fudge{ font-size: 20px;}
+#lool{ font-size: 20px;}
+#loool{ font-size: 20px;}
+#mainbody{ margin: auto; width: 75%;}
+#yool{margin-left: 120px;}
+.jumbotron{background-color: transparent;}
+#you{margin-left: 400px;}
+#lol{color: red;}
+#zu{width: 1000px;}
+
+
+/*.fill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}*/
+.fill img {
+  width:82%;
+  margin-top: 40px;
+}
+
+
+/* iPhone 5 check */
+@media (max-width: 1430px) {
+  .bg{
+    
+    height: 50px; width: 150px; font-size: 21px; margin: 10px;
+    }
+}
+@media (max-width: 1240px) {
+
+
+  #buttonbar{ width: 50px;}
+
+#ji{width: 180px;}
+}
+
+   
